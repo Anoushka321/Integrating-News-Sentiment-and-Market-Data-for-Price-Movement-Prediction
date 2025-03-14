@@ -10,22 +10,6 @@ This project focuses on predicting the **directional price movement of scrap met
 - **Ensemble Learning Models**: Developing and fine-tuning models using **XGBoost, CatBoost, LightGBM, and advanced boosting strategies**.
 - **Prediction & Evaluation**: Conducting comprehensive performance analysis using **ROC-AUC, Precision-Recall Curves, F1-score, and MCC**.
 
-## Project Structure
-```bash
-Scrap-Metal-Directional-Price-Prediction/
-│── data/               # Raw & preprocessed datasets
-│── models/             # Saved machine learning models
-│── etl/                # Data extraction & preprocessing pipelines
-│── app.ipynb           # Jupyter notebook for exploratory data analysis (EDA) & visualization
-│── main.py             # Main execution pipeline for training and evaluation
-│── finbert.py          # Transformer-based sentiment analysis using FinBERT
-│── gpt.py              # Deep learning-based sentiment extraction using GPT
-│── model_architecture.png # Model architecture and data flow diagram
-│── model_importances.png  # Feature importance visualization
-│── requirements.txt    # Python package dependencies
-│── LICENSE             # Project licensing details
-│── README.md           # Project documentation
-```
 
 ## Getting Started
 ### 1️⃣ Clone the Repository
